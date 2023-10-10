@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Manrope:wght@400;500;600&family=Raleway:wght@300;400;500;600&display=swap");
+@import-normalize;
+
+html {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  font-family: "Manrope", sans-serif;
+  font-family: "Raleway", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+code {
+  font-family: "Open Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Yellowtail", cursive;
+}
