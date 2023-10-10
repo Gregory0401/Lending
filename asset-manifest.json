@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Lending/static/css/main.10fafb02.css",
+    "main.js": "/Lending/static/js/main.36fe23a7.js",
+    "static/media/dream-sec.png": "/Lending/static/media/dream-sec.8bbd2fb284c8f4e6d0f2.png",
+    "static/media/grey.png": "/Lending/static/media/grey.f1760cdb65c1ffd1099f.png",
+    "static/media/Rectangle59.png": "/Lending/static/media/Rectangle59.64b14fb998a48ccd6eaa.png",
+    "static/media/backGround.jpg": "/Lending/static/media/backGround.29fe5b17cde870798e76.jpg",
+    "static/media/image 20.png": "/Lending/static/media/image 20.35c5b3177769d7cd0037.png",
+    "static/media/Rectangle 67.png": "/Lending/static/media/Rectangle 67.0708a2f06e8bd4632326.png",
+    "static/media/world-map.png": "/Lending/static/media/world-map.ae83e810327ff4599f96.png",
+    "static/media/tel.png": "/Lending/static/media/tel.c8b1a2f6cea8067666ef.png",
+    "static/media/image 6.png": "/Lending/static/media/image 6.2ffea478fab91acf9681.png",
+    "static/media/p2.png": "/Lending/static/media/p2.ccb4b321e747a02cd35a.png",
+    "static/media/p4.png": "/Lending/static/media/p4.fd446650504279308ae4.png",
+    "static/media/p1.png": "/Lending/static/media/p1.be2ee3da35a39a79a84f.png",
+    "static/media/Arrow 4.svg": "/Lending/static/media/Arrow 4.0b3cd45347666d760fdefe89e4bc758a.svg",
+    "static/media/icon_travelling.svg": "/Lending/static/media/icon_travelling.8c0f133d299c398ac5ea00396bab47c5.svg",
+    "static/media/icon_car.svg": "/Lending/static/media/icon_car.730a078c66ebdfddeddb821d13b4c495.svg",
+    "static/media/icon_profit.svg": "/Lending/static/media/icon_profit.d188a54a40ac0f477a11bad11960bbc1.svg",
+    "static/media/icon_flat.svg": "/Lending/static/media/icon_flat.f44fe6fae279d61cd174885f3d6b93c3.svg",
+    "static/media/Arrow 5.svg": "/Lending/static/media/Arrow 5.1f389715f696454f474feddde6f8bf0f.svg",
+    "index.html": "/Lending/index.html",
+    "static/media/Flags.svg": "/Lending/static/media/Flags.c67a9cb92b7bdb428e4ebec92de665b9.svg",
+    "main.10fafb02.css.map": "/Lending/static/css/main.10fafb02.css.map",
+    "main.36fe23a7.js.map": "/Lending/static/js/main.36fe23a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10fafb02.css",
+    "static/js/main.36fe23a7.js"
+  ]
+}
